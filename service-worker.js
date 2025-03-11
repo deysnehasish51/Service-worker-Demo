@@ -1,5 +1,5 @@
 // service-worker.js
-const CACHE_NAME = "my-cache-v1";
+const CACHE_NAME = "my-cache-v2";
 const urlsToCache = [
   "/",
   "/index.html",
