@@ -5,7 +5,7 @@ const urlsToCache = [
   "/index.html",
   "/styles.css",
   "/app.js",
-  "/logo.png"
+  "/logo.jpg"
 ];
 
 // Install event: Caches the assets
